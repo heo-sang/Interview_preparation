@@ -29,7 +29,7 @@ HOL Blocking(Head Of Line Blocking) :  네트워크에서 같은 큐에 있는 �
 
 서버 푸시 : 클라이언트 요청없이 서버가 바로 리소스를 푸시할 수 있는 기능
 
-# HTTP/3.0
+### HTTP/3.0
 UDP 기반의 전송 프로토콜
 TCP의 구조적 문제로 성능 향상이 어렵다고 판단하여 UDP 기반의 QUIC를 사용했습니다.
 QUIC(Quick UDP Internet Connections)은 TCP의 3-way handshake과정을 최적화 하는 것에 초점을 두고 개발 됐습니다.
