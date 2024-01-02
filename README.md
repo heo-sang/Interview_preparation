@@ -38,6 +38,7 @@
 [DB이상현상](./데이터베이스/DB이상현상.md)  
 [인덱스](./데이터베이스/인덱스.md)  
 [RDBMS, NoSQL(미완)](./데이터베이스/RDBMS,%20NoSQL.md)  
+[DDL, DML, DCL, TCL](./데이터베이스/DDL,%20DML,%20DCL,%20TCL.md)  
 
 
 ### 알고리즘
