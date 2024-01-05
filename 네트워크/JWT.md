@@ -1,6 +1,7 @@
 # JWT
-
 Json Web Token
+
+인증에 필요한 정보를 json 형식의 토큰에 담아 암호화시켜 사용하는 표준 인증 방식
 
 당사자 간의 정보를 JSON 개체로 안전하게 전송하기 위한 독립적인 방법을 정의하는 개방형 표준([rfc7519](https://datatracker.ietf.org/doc/html/rfc7519))
 
