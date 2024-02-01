@@ -1,5 +1,8 @@
 # DNS
 Domain Name System
+
+TCP/IP 애플리케이션에서, ‘naver.com’와 같은 주 컴퓨터의 도메인 네임을 ‘164.124.101.2’와 같은 IP 주소로 변환하고 라우팅 정보를 제공하는 분산형 데이터베이스 시스템
+
 도메인을 IP로 변환해 영문과 숫자로 된 복잡한 IP 주소를 기억할 필요가 없다.
 
 ### DNS 과정
@@ -33,3 +36,4 @@ DNS 확인자 : DNS 조회의 첫 번째 단계이며, 최초 요청을 한 클�
 --- 
 ##### 출처
 [DNS란 무엇입니까?](https://www.cloudflare.com/ko-kr/learning/dns/what-is-dns/)
+[정보통신용어사전 DNS](https://terms.tta.or.kr/dictionary/dictionaryView.do?word_seq=041788-2)
